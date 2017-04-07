@@ -72,3 +72,7 @@ limitations under the License.
 
 [http://www.jianshu.com/u/b00c71168e32](http://www.jianshu.com/u/b00c71168e32 "简书")
 [http://my.csdn.net/?ref=toolbar](http://my.csdn.net/?ref=toolbar "CSDN")
+
+#  References
+- http://mazhuang.org/2016/01/14/android-system-cache/#计算缓存大小的实现
+- http://www.jianshu.com/p/ee7a00e12b0b#
